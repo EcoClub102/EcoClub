@@ -1,0 +1,528 @@
+[14-Jul-2023 16:13:21 Asia/Kolkata] PHP Warning:  Use of undefined constant upi1 - assumed 'upi1' (this will throw an Error in a future version of PHP) in /home/kdhkxgzbjq/public_html/quick-win.in/trova/src/api/pay1.php on line 7
+[16-Jul-2023 18:50:37 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/kdhkxgzbjq/public_html/quick-win.in/trova/src/api/me.php on line 47
+[18-Jul-2023 00:29:08 Asia/Kolkata] PHP Warning:  Use of undefined constant upi1 - assumed 'upi1' (this will throw an Error in a future version of PHP) in /home/kdhkxgzbjq/public_html/quick-win.in/trova/src/api/pay1.php on line 7
+[18-Jul-2023 13:11:09 Asia/Kolkata] PHP Warning:  array_multisort(): Argument #1 is expected to be an array or a sort flag in /home/kdhkxgzbjq/public_html/quick-win.in/trova/src/api/bet.php on line 494
+[19-Jul-2023 23:22:04 Asia/Kolkata] PHP Warning:  array_multisort(): Argument #1 is expected to be an array or a sort flag in /home/kdhkxgzbjq/public_html/quick-win.in/trova/src/api/bet.php on line 494
+[20-Jul-2023 12:34:30 Asia/Kolkata] PHP Warning:  Use of undefined constant upi1 - assumed 'upi1' (this will throw an Error in a future version of PHP) in /home/kdhkxgzbjq/public_html/quick-win.in/trova/src/api/pay1.php on line 7
+[20-Jul-2023 14:10:15 Asia/Kolkata] PHP Warning:  Use of undefined constant upi1 - assumed 'upi1' (this will throw an Error in a future version of PHP) in /home/kdhkxgzbjq/public_html/quick-win.in/trova/src/api/pay1.php on line 7
+[21-Jul-2023 10:47:55 Asia/Kolkata] PHP Warning:  Use of undefined constant upi1 - assumed 'upi1' (this will throw an Error in a future version of PHP) in /home/kdhkxgzbjq/public_html/quick-win.in/trova/src/api/pay1.php on line 7
+[21-Jul-2023 11:02:46 Asia/Kolkata] PHP Warning:  Use of undefined constant upi1 - assumed 'upi1' (this will throw an Error in a future version of PHP) in /home/kdhkxgzbjq/public_html/quick-win.in/trova/src/api/pay1.php on line 7
+[21-Jul-2023 13:26:55 Asia/Kolkata] PHP Warning:  Use of undefined constant upi1 - assumed 'upi1' (this will throw an Error in a future version of PHP) in /home/kdhkxgzbjq/public_html/quick-win.in/trova/src/api/pay1.php on line 7
+[22-Jul-2023 09:55:46 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/kdhkxgzbjq/public_html/quick-win.in/trova/src/api/userapi.php on line 35
+[22-Jul-2023 09:56:01 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/kdhkxgzbjq/public_html/quick-win.in/trova/src/api/me.php on line 47
+[22-Jul-2023 09:56:36 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/kdhkxgzbjq/public_html/quick-win.in/trova/src/api/userapi.php on line 35
+[22-Jul-2023 09:57:04 Asia/Kolkata] PHP Warning:  Use of undefined constant upi1 - assumed 'upi1' (this will throw an Error in a future version of PHP) in /home/kdhkxgzbjq/public_html/quick-win.in/trova/src/api/pay1.php on line 7
+[22-Jul-2023 10:04:03 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/kdhkxgzbjq/public_html/quick-win.in/trova/src/api/me.php on line 47
+[22-Jul-2023 10:08:51 Asia/Kolkata] PHP Warning:  Use of undefined constant upi1 - assumed 'upi1' (this will throw an Error in a future version of PHP) in /home/kdhkxgzbjq/public_html/quick-win.in/trova/src/api/pay1.php on line 7
+[22-Jul-2023 12:00:12 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/kdhkxgzbjq/public_html/quick-win.in/trova/src/api/me.php on line 47
+[22-Jul-2023 14:01:20 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/kdhkxgzbjq/public_html/quick-win.in/trova/src/api/me.php on line 47
+[22-Jul-2023 14:06:43 Asia/Kolkata] PHP Warning:  Use of undefined constant upi1 - assumed 'upi1' (this will throw an Error in a future version of PHP) in /home/kdhkxgzbjq/public_html/quick-win.in/trova/src/api/pay1.php on line 7
+[22-Jul-2023 18:07:08 Asia/Kolkata] PHP Warning:  array_multisort(): Argument #1 is expected to be an array or a sort flag in /home/kdhkxgzbjq/public_html/quick-win.in/trova/src/api/bet.php on line 494
+[25-Jul-2023 14:17:38 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 38
+[25-Jul-2023 14:17:38 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[25-Jul-2023 14:17:38 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[25-Jul-2023 14:17:40 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 38
+[25-Jul-2023 14:17:40 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[25-Jul-2023 14:17:40 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[25-Jul-2023 14:17:40 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[25-Jul-2023 14:17:46 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 39
+[25-Jul-2023 14:17:48 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 38
+[25-Jul-2023 14:17:48 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[25-Jul-2023 14:17:48 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[25-Jul-2023 14:17:48 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[25-Jul-2023 14:17:55 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[25-Jul-2023 14:17:55 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 38
+[25-Jul-2023 14:17:56 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[25-Jul-2023 14:17:56 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[25-Jul-2023 14:22:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 39
+[25-Jul-2023 14:22:09 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 38
+[25-Jul-2023 14:22:10 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[25-Jul-2023 14:22:10 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[25-Jul-2023 16:55:29 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/userapi.php on line 39
+[25-Jul-2023 18:00:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/userapi.php on line 39
+[25-Jul-2023 18:00:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/userapi.php on line 39
+[25-Jul-2023 18:00:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/userapi.php on line 39
+[25-Jul-2023 18:00:27 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/userapi.php on line 39
+[25-Jul-2023 18:00:30 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/userapi.php on line 39
+[25-Jul-2023 18:18:39 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/userapi.php on line 39
+[25-Jul-2023 18:18:42 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/userapi.php on line 39
+[25-Jul-2023 18:19:27 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 38
+[25-Jul-2023 18:19:27 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[25-Jul-2023 18:19:27 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[25-Jul-2023 18:19:27 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[25-Jul-2023 20:01:02 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[25-Jul-2023 20:02:15 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[25-Jul-2023 20:02:37 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[25-Jul-2023 20:02:45 Asia/Kolkata] PHP Warning:  Use of undefined constant upi1 - assumed 'upi1' (this will throw an Error in a future version of PHP) in /home/codemaxs/public_html/trova/src/api/pay1.php on line 7
+[25-Jul-2023 20:03:00 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[26-Jul-2023 11:45:43 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/userapi.php on line 39
+[26-Jul-2023 17:13:35 Asia/Kolkata] PHP Notice:  Undefined index: per in /home/codemaxs/public_html/trova/src/api/bet.php on line 35
+[26-Jul-2023 19:39:58 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/userapi.php on line 39
+[27-Jul-2023 10:46:36 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/userapi.php on line 39
+[27-Jul-2023 10:46:42 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/userapi.php on line 39
+[27-Jul-2023 10:47:37 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 10:47:37 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 10:47:37 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 10:47:43 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 10:47:43 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 10:47:43 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 10:47:50 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 10:47:50 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 10:47:50 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 10:47:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/userapi.php on line 39
+[27-Jul-2023 10:48:06 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 10:48:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 10:48:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 10:48:09 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 10:48:09 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 10:48:09 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 10:48:12 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 10:48:12 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 10:48:12 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 10:48:34 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 10:48:34 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 10:48:36 Asia/Kolkata] PHP Notice:  Undefined index: per in /home/codemaxs/public_html/trova/src/api/bet.php on line 35
+[27-Jul-2023 10:48:37 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 10:48:37 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 10:48:37 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 10:48:38 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 10:48:38 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 10:48:49 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 10:48:49 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 10:48:49 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 10:48:51 Asia/Kolkata] PHP Warning:  Use of undefined constant upi1 - assumed 'upi1' (this will throw an Error in a future version of PHP) in /home/codemaxs/public_html/trova/src/api/pay1.php on line 7
+[27-Jul-2023 10:48:54 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 10:48:54 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 10:48:54 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 10:48:56 Asia/Kolkata] PHP Notice:  Undefined index: per in /home/codemaxs/public_html/trova/src/api/bet.php on line 35
+[27-Jul-2023 10:48:57 Asia/Kolkata] PHP Warning:  array_multisort(): Argument #1 is expected to be an array or a sort flag in /home/codemaxs/public_html/trova/src/api/bet.php on line 494
+[27-Jul-2023 10:49:01 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 10:49:01 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 10:49:01 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 10:49:06 Asia/Kolkata] PHP Notice:  Undefined variable: data1 in /home/codemaxs/public_html/trova/src/api/bet.php on line 244
+[27-Jul-2023 10:49:07 Asia/Kolkata] PHP Notice:  Undefined variable: data1 in /home/codemaxs/public_html/trova/src/api/bet.php on line 271
+[27-Jul-2023 10:49:07 Asia/Kolkata] PHP Notice:  Undefined variable: data1 in /home/codemaxs/public_html/trova/src/api/bet.php on line 284
+[27-Jul-2023 10:49:10 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 10:49:10 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 10:49:10 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 10:49:18 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 10:49:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 10:49:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 10:49:19 Asia/Kolkata] PHP Notice:  Undefined index: per in /home/codemaxs/public_html/trova/src/api/bet.php on line 35
+[27-Jul-2023 10:49:20 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 10:49:20 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 10:49:20 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 10:49:21 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 10:49:21 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 10:51:52 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 10:51:52 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 10:51:52 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 10:51:56 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 10:51:56 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 10:51:56 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 10:51:57 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 10:51:57 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 10:51:57 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 10:51:58 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 10:51:58 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 10:51:58 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 10:51:59 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 10:51:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 10:51:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 10:51:59 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 10:51:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 10:51:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 10:52:00 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 10:52:00 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 10:52:00 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 10:52:01 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 10:52:01 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 10:52:01 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 10:52:02 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 10:52:02 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 10:52:02 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 10:52:02 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 10:52:02 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 10:52:03 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 10:52:03 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 10:52:03 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 10:52:03 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 10:52:03 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 10:52:03 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 10:52:03 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 10:52:04 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 10:52:04 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 10:52:04 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 10:52:04 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 10:52:04 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 10:52:04 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 10:52:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 10:52:06 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 10:52:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 10:53:16 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 10:53:16 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 10:53:16 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 11:12:48 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 11:12:48 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 11:12:48 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 11:40:03 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 11:40:03 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 11:40:03 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 12:23:11 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/otp.php on line 84
+[27-Jul-2023 12:23:11 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/otp.php on line 85
+[27-Jul-2023 12:23:43 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 12:23:47 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 12:24:09 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 12:24:14 Asia/Kolkata] PHP Notice:  Undefined variable: data1 in /home/codemaxs/public_html/trova/src/api/bet.php on line 258
+[27-Jul-2023 12:24:22 Asia/Kolkata] PHP Notice:  Undefined variable: data1 in /home/codemaxs/public_html/trova/src/api/bet.php on line 258
+[27-Jul-2023 12:24:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 12:24:22 Asia/Kolkata] PHP Notice:  Undefined variable: data1 in /home/codemaxs/public_html/trova/src/api/bet.php on line 258
+[27-Jul-2023 12:24:23 Asia/Kolkata] PHP Notice:  Undefined variable: data1 in /home/codemaxs/public_html/trova/src/api/bet.php on line 258
+[27-Jul-2023 12:24:24 Asia/Kolkata] PHP Notice:  Undefined variable: data1 in /home/codemaxs/public_html/trova/src/api/bet.php on line 258
+[27-Jul-2023 12:24:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 12:24:39 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 12:24:41 Asia/Kolkata] PHP Notice:  Undefined variable: data1 in /home/codemaxs/public_html/trova/src/api/bet.php on line 258
+[27-Jul-2023 12:24:49 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 12:24:52 Asia/Kolkata] PHP Notice:  Undefined index: per in /home/codemaxs/public_html/trova/src/api/bet.php on line 35
+[27-Jul-2023 12:24:52 Asia/Kolkata] PHP Warning:  array_multisort(): Argument #1 is expected to be an array or a sort flag in /home/codemaxs/public_html/trova/src/api/bet.php on line 494
+[27-Jul-2023 12:24:57 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 12:25:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 12:39:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 12:39:27 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 12:39:35 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 12:39:46 Asia/Kolkata] PHP Notice:  Undefined index: per in /home/codemaxs/public_html/trova/src/api/bet.php on line 35
+[27-Jul-2023 12:39:48 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 12:39:52 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 12:39:57 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 12:40:44 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/otp.php on line 84
+[27-Jul-2023 12:40:44 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/otp.php on line 85
+[27-Jul-2023 12:41:03 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 12:41:17 Asia/Kolkata] PHP Notice:  Undefined index: per in /home/codemaxs/public_html/trova/src/api/bet.php on line 35
+[27-Jul-2023 12:41:19 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 12:41:21 Asia/Kolkata] PHP Notice:  Undefined index: per in /home/codemaxs/public_html/trova/src/api/bet.php on line 35
+[27-Jul-2023 12:41:21 Asia/Kolkata] PHP Warning:  array_multisort(): Argument #1 is expected to be an array or a sort flag in /home/codemaxs/public_html/trova/src/api/bet.php on line 494
+[27-Jul-2023 12:41:24 Asia/Kolkata] PHP Notice:  Undefined index: per in /home/codemaxs/public_html/trova/src/api/bet.php on line 35
+[27-Jul-2023 12:41:24 Asia/Kolkata] PHP Warning:  array_multisort(): Argument #1 is expected to be an array or a sort flag in /home/codemaxs/public_html/trova/src/api/bet.php on line 494
+[27-Jul-2023 12:41:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 12:41:28 Asia/Kolkata] PHP Notice:  Undefined index: per in /home/codemaxs/public_html/trova/src/api/bet.php on line 35
+[27-Jul-2023 12:41:28 Asia/Kolkata] PHP Warning:  array_multisort(): Argument #1 is expected to be an array or a sort flag in /home/codemaxs/public_html/trova/src/api/bet.php on line 494
+[27-Jul-2023 12:41:29 Asia/Kolkata] PHP Notice:  Undefined index: per in /home/codemaxs/public_html/trova/src/api/bet.php on line 35
+[27-Jul-2023 12:41:29 Asia/Kolkata] PHP Warning:  array_multisort(): Argument #1 is expected to be an array or a sort flag in /home/codemaxs/public_html/trova/src/api/bet.php on line 494
+[27-Jul-2023 12:41:36 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 12:41:39 Asia/Kolkata] PHP Notice:  Undefined index: per in /home/codemaxs/public_html/trova/src/api/bet.php on line 35
+[27-Jul-2023 12:41:39 Asia/Kolkata] PHP Warning:  array_multisort(): Argument #1 is expected to be an array or a sort flag in /home/codemaxs/public_html/trova/src/api/bet.php on line 494
+[27-Jul-2023 12:41:41 Asia/Kolkata] PHP Notice:  Undefined index: per in /home/codemaxs/public_html/trova/src/api/bet.php on line 35
+[27-Jul-2023 12:41:41 Asia/Kolkata] PHP Warning:  array_multisort(): Argument #1 is expected to be an array or a sort flag in /home/codemaxs/public_html/trova/src/api/bet.php on line 494
+[27-Jul-2023 12:41:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 12:41:54 Asia/Kolkata] PHP Notice:  Undefined index: per in /home/codemaxs/public_html/trova/src/api/bet.php on line 35
+[27-Jul-2023 12:41:56 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 12:42:11 Asia/Kolkata] PHP Notice:  Undefined index: per in /home/codemaxs/public_html/trova/src/api/bet.php on line 35
+[27-Jul-2023 12:43:39 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 12:43:46 Asia/Kolkata] PHP Notice:  Undefined index: per in /home/codemaxs/public_html/trova/src/api/bet.php on line 35
+[27-Jul-2023 12:43:55 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 13:29:26 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 13:29:26 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 13:29:26 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 13:31:49 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/otp.php on line 84
+[27-Jul-2023 13:31:49 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/otp.php on line 85
+[27-Jul-2023 13:32:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 13:32:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 13:32:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 13:32:26 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 13:32:26 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 13:32:31 Asia/Kolkata] PHP Warning:  Use of undefined constant upi1 - assumed 'upi1' (this will throw an Error in a future version of PHP) in /home/codemaxs/public_html/trova/src/api/pay1.php on line 7
+[27-Jul-2023 13:32:40 Asia/Kolkata] PHP Warning:  Use of undefined constant upi1 - assumed 'upi1' (this will throw an Error in a future version of PHP) in /home/codemaxs/public_html/trova/src/api/pay1.php on line 7
+[27-Jul-2023 13:32:41 Asia/Kolkata] PHP Notice:  Undefined index: per in /home/codemaxs/public_html/trova/src/api/bet.php on line 35
+[27-Jul-2023 13:32:52 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 13:32:52 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 13:32:54 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 13:32:54 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 13:32:54 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 13:32:59 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 13:32:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 13:33:15 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 13:33:15 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 13:33:15 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 13:33:15 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 13:33:15 Asia/Kolkata] PHP Notice:  Undefined index: per in /home/codemaxs/public_html/trova/src/api/bet.php on line 35
+[27-Jul-2023 13:34:30 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 13:34:30 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 13:34:37 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 13:34:37 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 13:34:37 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 13:35:07 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/otp.php on line 84
+[27-Jul-2023 13:35:07 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/otp.php on line 85
+[27-Jul-2023 13:36:27 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/otp.php on line 84
+[27-Jul-2023 13:36:27 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/otp.php on line 85
+[27-Jul-2023 13:37:46 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 13:37:46 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 13:37:46 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 13:37:50 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 13:37:50 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 13:37:53 Asia/Kolkata] PHP Notice:  Undefined index: per in /home/codemaxs/public_html/trova/src/api/bet.php on line 35
+[27-Jul-2023 13:38:20 Asia/Kolkata] PHP Notice:  Undefined index: per in /home/codemaxs/public_html/trova/src/api/bet.php on line 35
+[27-Jul-2023 13:38:32 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 13:38:32 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 13:38:34 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 13:38:34 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 13:38:34 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 13:38:36 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 13:38:36 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 13:38:36 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 13:41:31 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 13:41:31 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 13:41:31 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 13:41:58 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 13:41:58 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 13:41:58 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 13:42:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 13:42:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 13:42:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 13:42:36 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 13:42:36 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 13:47:03 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 13:47:03 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 13:47:03 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 13:47:06 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 13:47:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 13:47:33 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 13:47:33 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 13:47:33 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 13:47:36 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 13:47:36 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 13:47:42 Asia/Kolkata] PHP Warning:  Use of undefined constant upi1 - assumed 'upi1' (this will throw an Error in a future version of PHP) in /home/codemaxs/public_html/trova/src/api/pay1.php on line 7
+[27-Jul-2023 13:47:59 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 13:47:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 13:47:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 15:54:55 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/userapi.php on line 39
+[27-Jul-2023 15:55:06 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/otp.php on line 84
+[27-Jul-2023 15:55:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/otp.php on line 85
+[27-Jul-2023 15:55:37 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 15:55:37 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 15:55:37 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 15:55:38 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 15:55:38 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 15:55:38 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 15:55:50 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 15:55:50 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 15:55:50 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 15:55:52 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 15:55:52 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 15:55:52 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 15:55:55 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 15:55:55 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 15:55:55 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 15:56:21 Asia/Kolkata] PHP Notice:  Undefined variable: data1 in /home/codemaxs/public_html/trova/src/api/bet.php on line 244
+[27-Jul-2023 15:56:22 Asia/Kolkata] PHP Notice:  Undefined variable: data1 in /home/codemaxs/public_html/trova/src/api/bet.php on line 271
+[27-Jul-2023 15:56:24 Asia/Kolkata] PHP Notice:  Undefined variable: data1 in /home/codemaxs/public_html/trova/src/api/bet.php on line 284
+[27-Jul-2023 15:56:27 Asia/Kolkata] PHP Notice:  Undefined variable: data1 in /home/codemaxs/public_html/trova/src/api/bet.php on line 284
+[27-Jul-2023 15:56:28 Asia/Kolkata] PHP Notice:  Undefined variable: data1 in /home/codemaxs/public_html/trova/src/api/bet.php on line 284
+[27-Jul-2023 15:56:33 Asia/Kolkata] PHP Notice:  Undefined variable: data1 in /home/codemaxs/public_html/trova/src/api/bet.php on line 284
+[27-Jul-2023 15:56:33 Asia/Kolkata] PHP Notice:  Undefined variable: data1 in /home/codemaxs/public_html/trova/src/api/bet.php on line 284
+[27-Jul-2023 15:56:50 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 39
+[27-Jul-2023 15:56:50 Asia/Kolkata] PHP Notice:  Undefined variable: data1 in /home/codemaxs/public_html/trova/src/api/bet.php on line 258
+[27-Jul-2023 15:56:57 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 39
+[27-Jul-2023 15:56:58 Asia/Kolkata] PHP Notice:  Undefined variable: data1 in /home/codemaxs/public_html/trova/src/api/bet.php on line 258
+[27-Jul-2023 15:57:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 15:57:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 15:57:37 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 15:57:37 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 15:57:37 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 15:57:40 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 15:57:40 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 15:58:25 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 15:58:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 15:58:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 16:01:04 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 16:01:04 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 16:01:04 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 16:01:23 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 16:01:23 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 16:01:23 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 16:02:29 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 16:02:29 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 16:02:29 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 16:39:31 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 16:39:31 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 16:39:31 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 16:39:44 Asia/Kolkata] PHP Notice:  Undefined variable: data1 in /home/codemaxs/public_html/trova/src/api/bet.php on line 284
+[27-Jul-2023 16:39:45 Asia/Kolkata] PHP Notice:  Undefined variable: data1 in /home/codemaxs/public_html/trova/src/api/bet.php on line 271
+[27-Jul-2023 16:39:46 Asia/Kolkata] PHP Notice:  Undefined variable: data1 in /home/codemaxs/public_html/trova/src/api/bet.php on line 244
+[27-Jul-2023 16:46:47 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 16:46:47 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 16:46:47 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 16:49:33 Asia/Kolkata] PHP Notice:  Undefined variable: data1 in /home/codemaxs/public_html/trova/src/api/bet.php on line 244
+[27-Jul-2023 16:49:34 Asia/Kolkata] PHP Notice:  Undefined variable: data1 in /home/codemaxs/public_html/trova/src/api/bet.php on line 244
+[27-Jul-2023 17:49:05 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 17:49:05 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 17:49:05 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 18:09:09 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 18:09:09 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 18:09:09 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 20:18:44 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 20:18:44 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 20:18:44 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 20:18:48 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 20:18:48 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 20:18:48 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 20:19:05 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 20:19:05 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[27-Jul-2023 20:19:05 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 20:19:28 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[27-Jul-2023 20:19:28 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[27-Jul-2023 20:19:28 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[28-Jul-2023 07:03:12 Asia/Kolkata] PHP Notice:  Undefined index: per in /home/codemaxs/public_html/trova/src/api/bet.php on line 35
+[28-Jul-2023 07:03:14 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[28-Jul-2023 07:04:32 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[28-Jul-2023 07:04:36 Asia/Kolkata] PHP Notice:  Undefined index: per in /home/codemaxs/public_html/trova/src/api/bet.php on line 35
+[28-Jul-2023 07:04:37 Asia/Kolkata] PHP Warning:  array_multisort(): Argument #1 is expected to be an array or a sort flag in /home/codemaxs/public_html/trova/src/api/bet.php on line 494
+[28-Jul-2023 11:22:49 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[28-Jul-2023 11:22:49 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[28-Jul-2023 11:22:49 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[28-Jul-2023 11:22:59 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[28-Jul-2023 11:22:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[28-Jul-2023 11:24:45 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[28-Jul-2023 11:24:45 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[28-Jul-2023 11:24:45 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[28-Jul-2023 15:55:28 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/otp.php on line 84
+[28-Jul-2023 15:55:28 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/otp.php on line 85
+[28-Jul-2023 16:00:29 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[28-Jul-2023 16:00:29 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[28-Jul-2023 16:00:29 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[28-Jul-2023 16:00:43 Asia/Kolkata] PHP Notice:  Undefined variable: data1 in /home/codemaxs/public_html/trova/src/api/bet.php on line 244
+[28-Jul-2023 16:00:45 Asia/Kolkata] PHP Notice:  Undefined variable: data1 in /home/codemaxs/public_html/trova/src/api/bet.php on line 271
+[28-Jul-2023 16:00:47 Asia/Kolkata] PHP Notice:  Undefined variable: data1 in /home/codemaxs/public_html/trova/src/api/bet.php on line 271
+[28-Jul-2023 16:00:48 Asia/Kolkata] PHP Notice:  Undefined variable: data1 in /home/codemaxs/public_html/trova/src/api/bet.php on line 284
+[28-Jul-2023 16:01:19 Asia/Kolkata] PHP Notice:  Undefined variable: data1 in /home/codemaxs/public_html/trova/src/api/bet.php on line 244
+[28-Jul-2023 16:01:22 Asia/Kolkata] PHP Notice:  Undefined variable: data1 in /home/codemaxs/public_html/trova/src/api/bet.php on line 271
+[28-Jul-2023 23:57:50 Asia/Kolkata] PHP Notice:  Undefined variable: data1 in /home/codemaxs/public_html/trova/src/api/bet.php on line 258
+[28-Jul-2023 23:59:24 Asia/Kolkata] PHP Notice:  Undefined variable: data1 in /home/codemaxs/public_html/trova/src/api/bet.php on line 258
+[29-Jul-2023 00:00:31 Asia/Kolkata] PHP Notice:  Undefined variable: data1 in /home/codemaxs/public_html/trova/src/api/bet.php on line 244
+[29-Jul-2023 00:03:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[29-Jul-2023 00:03:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[29-Jul-2023 00:03:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[29-Jul-2023 00:05:39 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[29-Jul-2023 00:05:39 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[29-Jul-2023 00:05:43 Asia/Kolkata] PHP Warning:  Use of undefined constant upi1 - assumed 'upi1' (this will throw an Error in a future version of PHP) in /home/codemaxs/public_html/trova/src/api/pay1.php on line 7
+[29-Jul-2023 00:05:56 Asia/Kolkata] PHP Warning:  Use of undefined constant upi1 - assumed 'upi1' (this will throw an Error in a future version of PHP) in /home/codemaxs/public_html/trova/src/api/pay1.php on line 7
+[29-Jul-2023 00:06:30 Asia/Kolkata] PHP Warning:  Use of undefined constant upi1 - assumed 'upi1' (this will throw an Error in a future version of PHP) in /home/codemaxs/public_html/trova/src/api/pay1.php on line 7
+[29-Jul-2023 00:06:35 Asia/Kolkata] PHP Warning:  Use of undefined constant upi1 - assumed 'upi1' (this will throw an Error in a future version of PHP) in /home/codemaxs/public_html/trova/src/api/pay1.php on line 7
+[29-Jul-2023 00:06:46 Asia/Kolkata] PHP Warning:  Use of undefined constant upi1 - assumed 'upi1' (this will throw an Error in a future version of PHP) in /home/codemaxs/public_html/trova/src/api/pay1.php on line 7
+[29-Jul-2023 00:06:47 Asia/Kolkata] PHP Notice:  Undefined index: per in /home/codemaxs/public_html/trova/src/api/bet.php on line 35
+[29-Jul-2023 00:07:14 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[29-Jul-2023 00:07:14 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[29-Jul-2023 00:07:18 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[29-Jul-2023 00:07:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[29-Jul-2023 00:07:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[29-Jul-2023 00:12:27 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[29-Jul-2023 00:12:27 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[29-Jul-2023 00:12:50 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[29-Jul-2023 00:12:50 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[29-Jul-2023 00:12:50 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[29-Jul-2023 00:23:29 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/bet.php on line 226
+[29-Jul-2023 00:23:29 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/trova/src/api/me.php on line 47
+[29-Jul-2023 00:23:29 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/trova/src/api/me.php on line 48
+[18-Aug-2023 18:27:53 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/trova/src/api/bet.php on line 226
+[18-Aug-2023 18:27:53 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/trova/src/api/me.php on line 47
+[18-Aug-2023 18:27:53 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/trova/src/api/me.php on line 48
+[18-Aug-2023 18:27:53 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/trova/src/api/me.php on line 52
+[18-Aug-2023 18:27:53 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/trova/src/api/me.php on line 53
+[18-Aug-2023 18:27:56 Asia/Kolkata] PHP Notice:  Undefined variable: data1 in /home/wsdh6qki8n2g/public_html/trova/src/api/bet.php on line 258
+[18-Aug-2023 18:28:04 Asia/Kolkata] PHP Notice:  Undefined variable: data1 in /home/wsdh6qki8n2g/public_html/trova/src/api/bet.php on line 258
+[18-Aug-2023 18:28:46 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/trova/src/api/me.php on line 47
+[18-Aug-2023 18:28:46 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/trova/src/api/me.php on line 48
+[18-Aug-2023 18:28:46 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/trova/src/api/bet.php on line 226
+[18-Aug-2023 18:28:46 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/trova/src/api/me.php on line 52
+[18-Aug-2023 18:28:46 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/trova/src/api/me.php on line 53
+[18-Aug-2023 18:29:00 Asia/Kolkata] PHP Notice:  Undefined index: per in /home/wsdh6qki8n2g/public_html/trova/src/api/bet.php on line 35
+[18-Aug-2023 18:29:09 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/trova/src/api/me.php on line 47
+[18-Aug-2023 18:29:09 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/trova/src/api/me.php on line 48
+[18-Aug-2023 18:29:09 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/trova/src/api/me.php on line 52
+[18-Aug-2023 18:29:09 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/trova/src/api/me.php on line 53
+[18-Aug-2023 18:29:24 Asia/Kolkata] PHP Warning:  Use of undefined constant upi1 - assumed 'upi1' (this will throw an Error in a future version of PHP) in /home/wsdh6qki8n2g/public_html/trova/src/api/pay1.php on line 7
+[18-Aug-2023 18:31:07 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/trova/src/api/me.php on line 47
+[18-Aug-2023 18:31:07 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/trova/src/api/me.php on line 48
+[18-Aug-2023 18:31:07 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/trova/src/api/bet.php on line 226
+[18-Aug-2023 18:31:07 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/trova/src/api/me.php on line 52
+[18-Aug-2023 18:31:07 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/trova/src/api/me.php on line 53
+[18-Aug-2023 18:31:14 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/trova/src/api/me.php on line 47
+[18-Aug-2023 18:31:14 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/trova/src/api/me.php on line 48
+[18-Aug-2023 18:31:14 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/trova/src/api/me.php on line 52
+[18-Aug-2023 18:31:14 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/trova/src/api/me.php on line 53
+[18-Aug-2023 18:38:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/trova/src/api/bet.php on line 226
+[18-Aug-2023 18:38:18 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/trova/src/api/me.php on line 47
+[18-Aug-2023 18:38:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/trova/src/api/me.php on line 48
+[18-Aug-2023 18:38:18 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/trova/src/api/me.php on line 52
+[18-Aug-2023 18:38:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/trova/src/api/me.php on line 53
+[18-Aug-2023 18:38:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/trova/src/api/bet.php on line 226
+[18-Aug-2023 18:38:25 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/trova/src/api/me.php on line 47
+[18-Aug-2023 18:38:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/trova/src/api/me.php on line 48
+[18-Aug-2023 18:38:25 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/trova/src/api/me.php on line 52
+[18-Aug-2023 18:38:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/trova/src/api/me.php on line 53
+[18-Aug-2023 18:38:29 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/trova/src/api/me.php on line 47
+[18-Aug-2023 18:38:29 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/trova/src/api/me.php on line 48
+[18-Aug-2023 18:38:29 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/trova/src/api/me.php on line 52
+[18-Aug-2023 18:38:29 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/trova/src/api/me.php on line 53
+[18-Aug-2023 18:38:33 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/trova/src/api/me.php on line 47
+[18-Aug-2023 18:38:33 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/trova/src/api/me.php on line 48
+[18-Aug-2023 18:38:33 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/trova/src/api/me.php on line 52
+[18-Aug-2023 18:38:33 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/trova/src/api/me.php on line 53
+[18-Aug-2023 18:38:33 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/trova/src/api/bet.php on line 226
+[18-Aug-2023 18:38:34 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/trova/src/api/me.php on line 47
+[18-Aug-2023 18:38:34 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/trova/src/api/me.php on line 48
+[18-Aug-2023 18:38:34 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/trova/src/api/me.php on line 52
+[18-Aug-2023 18:38:34 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/trova/src/api/me.php on line 53
+[18-Aug-2023 18:38:34 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/trova/src/api/bet.php on line 226
+[18-Aug-2023 18:41:00 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/trova/src/api/me.php on line 38
+[18-Aug-2023 18:41:00 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/trova/src/api/me.php on line 47
+[18-Aug-2023 18:41:00 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/trova/src/api/me.php on line 48
+[18-Aug-2023 18:41:00 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/trova/src/api/me.php on line 52
+[18-Aug-2023 18:41:00 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/trova/src/api/me.php on line 53
+[18-Aug-2023 18:42:01 Asia/Kolkata] PHP Warning:  Use of undefined constant upi1 - assumed 'upi1' (this will throw an Error in a future version of PHP) in /home/wsdh6qki8n2g/public_html/trova/src/api/pay1.php on line 7
+[18-Aug-2023 18:42:03 Asia/Kolkata] PHP Notice:  Undefined variable: data1 in /home/wsdh6qki8n2g/public_html/trova/src/api/bet.php on line 258
+[18-Aug-2023 18:42:03 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/trova/src/api/bet.php on line 39
+[18-Aug-2023 18:42:03 Asia/Kolkata] PHP Notice:  Undefined variable: data1 in /home/wsdh6qki8n2g/public_html/trova/src/api/bet.php on line 258
+[18-Aug-2023 18:42:03 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/trova/src/api/bet.php on line 39
+[18-Aug-2023 18:42:04 Asia/Kolkata] PHP Notice:  Undefined variable: data1 in /home/wsdh6qki8n2g/public_html/trova/src/api/bet.php on line 258
+[18-Aug-2023 18:42:05 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/trova/src/api/bet.php on line 39
+[18-Aug-2023 18:42:05 Asia/Kolkata] PHP Notice:  Undefined variable: data in /home/wsdh6qki8n2g/public_html/trova/src/api/bet.php on line 88
+[18-Aug-2023 18:42:05 Asia/Kolkata] PHP Notice:  Undefined variable: data1 in /home/wsdh6qki8n2g/public_html/trova/src/api/bet.php on line 244
+[18-Aug-2023 18:42:05 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/trova/src/api/bet.php on line 39
+[18-Aug-2023 18:42:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/trova/src/api/bet.php on line 39
+[18-Aug-2023 18:42:06 Asia/Kolkata] PHP Notice:  Undefined variable: data in /home/wsdh6qki8n2g/public_html/trova/src/api/bet.php on line 117
+[18-Aug-2023 18:42:06 Asia/Kolkata] PHP Notice:  Undefined variable: data1 in /home/wsdh6qki8n2g/public_html/trova/src/api/bet.php on line 271
+[18-Aug-2023 18:42:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/trova/src/api/bet.php on line 39
+[18-Aug-2023 18:42:06 Asia/Kolkata] PHP Notice:  Undefined variable: data in /home/wsdh6qki8n2g/public_html/trova/src/api/bet.php on line 130
+[18-Aug-2023 18:42:06 Asia/Kolkata] PHP Notice:  Undefined variable: data1 in /home/wsdh6qki8n2g/public_html/trova/src/api/bet.php on line 284
+[18-Aug-2023 18:42:06 Asia/Kolkata] PHP Notice:  Undefined variable: data in /home/wsdh6qki8n2g/public_html/trova/src/api/bet.php on line 130
+[18-Aug-2023 18:42:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/trova/src/api/bet.php on line 39
+[18-Aug-2023 18:42:06 Asia/Kolkata] PHP Notice:  Undefined variable: data1 in /home/wsdh6qki8n2g/public_html/trova/src/api/bet.php on line 284
+[18-Aug-2023 19:28:23 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/trova/src/api/me.php on line 47
+[18-Aug-2023 19:28:23 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/trova/src/api/me.php on line 48
+[18-Aug-2023 19:28:23 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/trova/src/api/me.php on line 52
+[18-Aug-2023 19:28:23 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/trova/src/api/me.php on line 53
+[18-Aug-2023 19:28:23 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/trova/src/api/bet.php on line 226
+[18-Aug-2023 19:29:25 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/trova/src/api/me.php on line 47
+[18-Aug-2023 19:29:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/trova/src/api/me.php on line 48
+[18-Aug-2023 19:29:25 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/trova/src/api/me.php on line 52
+[18-Aug-2023 19:29:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/trova/src/api/me.php on line 53
+[18-Aug-2023 19:29:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/trova/src/api/bet.php on line 226
+[18-Aug-2023 19:29:29 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/trova/src/api/me.php on line 47
+[18-Aug-2023 19:29:29 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/trova/src/api/me.php on line 48
+[18-Aug-2023 19:29:29 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/trova/src/api/me.php on line 52
+[18-Aug-2023 19:29:29 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/trova/src/api/me.php on line 53
+[18-Aug-2023 19:29:29 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/trova/src/api/bet.php on line 226
+[18-Aug-2023 19:32:35 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/trova/src/api/otp.php on line 84
+[18-Aug-2023 19:32:35 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/trova/src/api/otp.php on line 85
+[18-Aug-2023 19:33:02 Asia/Kolkata] PHP Notice:  Undefined offset: 20 in /home/wsdh6qki8n2g/public_html/trova/src/api/bet.php on line 678
+[18-Aug-2023 19:33:02 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/trova/src/api/bet.php on line 688
+[18-Aug-2023 19:33:02 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/trova/src/api/bet.php on line 689
+[18-Aug-2023 19:33:21 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/trova/src/api/otp.php on line 84
+[18-Aug-2023 19:33:21 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/trova/src/api/otp.php on line 85
+[18-Aug-2023 19:33:52 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/trova/src/api/bet.php on line 226
+[18-Aug-2023 19:33:52 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/trova/src/api/me.php on line 52
+[18-Aug-2023 19:33:52 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/trova/src/api/me.php on line 53
+[18-Aug-2023 19:33:59 Asia/Kolkata] PHP Notice:  Undefined variable: data1 in /home/wsdh6qki8n2g/public_html/trova/src/api/bet.php on line 258
+[18-Aug-2023 19:34:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/trova/src/api/bet.php on line 226
+[18-Aug-2023 19:34:06 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/trova/src/api/me.php on line 52
+[18-Aug-2023 19:34:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/trova/src/api/me.php on line 53
