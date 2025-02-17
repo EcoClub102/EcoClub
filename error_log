@@ -1,0 +1,572 @@
+[25-Jul-2023 14:22:41 Asia/Calcutta] PHP Notice:  session_start(): A session had already been started - ignoring in /home/codemaxs/public_html/adminverify.php on line 62
+[25-Jul-2023 14:22:41 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 42
+[25-Jul-2023 14:22:41 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 43
+[25-Jul-2023 14:22:41 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 56
+[25-Jul-2023 14:22:41 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 58
+[25-Jul-2023 14:22:54 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 42
+[25-Jul-2023 14:22:54 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 43
+[25-Jul-2023 14:22:54 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 56
+[25-Jul-2023 14:22:54 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 58
+[25-Jul-2023 19:57:35 Asia/Calcutta] PHP Notice:  session_start(): A session had already been started - ignoring in /home/codemaxs/public_html/adminverify.php on line 62
+[25-Jul-2023 19:57:36 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 42
+[25-Jul-2023 19:57:36 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 43
+[25-Jul-2023 19:57:36 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 56
+[25-Jul-2023 19:57:36 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 58
+[25-Jul-2023 19:57:37 Asia/Calcutta] PHP Notice:  session_start(): A session had already been started - ignoring in /home/codemaxs/public_html/adminverify.php on line 62
+[25-Jul-2023 19:57:37 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 42
+[25-Jul-2023 19:57:37 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 43
+[25-Jul-2023 19:57:37 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 56
+[25-Jul-2023 19:57:37 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 58
+[25-Jul-2023 19:59:22 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 42
+[25-Jul-2023 19:59:22 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 43
+[25-Jul-2023 19:59:22 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 56
+[25-Jul-2023 19:59:22 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 58
+[25-Jul-2023 20:00:30 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 42
+[25-Jul-2023 20:00:30 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 43
+[25-Jul-2023 20:00:30 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 56
+[25-Jul-2023 20:00:30 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 58
+[25-Jul-2023 20:00:36 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 42
+[25-Jul-2023 20:00:36 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 43
+[25-Jul-2023 20:00:36 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 56
+[25-Jul-2023 20:00:36 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 58
+[25-Jul-2023 20:00:58 Asia/Calcutta] PHP Notice:  Undefined variable: dataRow in /home/codemaxs/public_html/inviterec.php on line 193
+[25-Jul-2023 20:01:22 Asia/Calcutta] PHP Notice:  Undefined variable: dataRow in /home/codemaxs/public_html/inviterec.php on line 193
+[25-Jul-2023 20:01:44 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 42
+[25-Jul-2023 20:01:44 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 43
+[25-Jul-2023 20:01:44 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 56
+[25-Jul-2023 20:01:44 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 58
+[25-Jul-2023 20:02:15 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 42
+[25-Jul-2023 20:02:15 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 43
+[25-Jul-2023 20:02:15 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 56
+[25-Jul-2023 20:02:15 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 58
+[27-Jul-2023 10:46:41 Asia/Calcutta] PHP Notice:  session_start(): A session had already been started - ignoring in /home/codemaxs/public_html/adminverify.php on line 62
+[27-Jul-2023 10:46:41 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 42
+[27-Jul-2023 10:46:41 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 43
+[27-Jul-2023 10:46:41 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 56
+[27-Jul-2023 10:46:41 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 58
+[27-Jul-2023 10:46:47 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 42
+[27-Jul-2023 10:46:47 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 43
+[27-Jul-2023 10:46:47 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 56
+[27-Jul-2023 10:46:47 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 58
+[27-Jul-2023 10:51:15 Asia/Calcutta] PHP Notice:  session_start(): A session had already been started - ignoring in /home/codemaxs/public_html/adminverify.php on line 62
+[27-Jul-2023 10:51:15 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 42
+[27-Jul-2023 10:51:15 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 43
+[27-Jul-2023 10:51:15 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 56
+[27-Jul-2023 10:51:15 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 58
+[27-Jul-2023 10:52:16 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 42
+[27-Jul-2023 10:52:16 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 43
+[27-Jul-2023 10:52:16 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 56
+[27-Jul-2023 10:52:16 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 58
+[27-Jul-2023 10:53:01 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 42
+[27-Jul-2023 10:53:01 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 43
+[27-Jul-2023 10:53:01 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 56
+[27-Jul-2023 10:53:01 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 58
+[27-Jul-2023 10:53:08 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 42
+[27-Jul-2023 10:53:08 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 43
+[27-Jul-2023 10:53:08 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 56
+[27-Jul-2023 10:53:08 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 58
+[27-Jul-2023 10:53:45 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 42
+[27-Jul-2023 10:53:45 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 43
+[27-Jul-2023 10:53:45 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 56
+[27-Jul-2023 10:53:45 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 58
+[27-Jul-2023 10:53:49 Asia/Calcutta] PHP Warning:  Use of undefined constant api - assumed 'api' (this will throw an Error in a future version of PHP) in /home/codemaxs/public_html/updateotp.php on line 14
+[27-Jul-2023 10:53:49 Asia/Calcutta] PHP Warning:  Use of undefined constant status - assumed 'status' (this will throw an Error in a future version of PHP) in /home/codemaxs/public_html/updateotp.php on line 15
+[27-Jul-2023 10:53:54 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 42
+[27-Jul-2023 10:53:54 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 43
+[27-Jul-2023 10:53:54 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 56
+[27-Jul-2023 10:53:54 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 58
+[27-Jul-2023 10:54:02 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 42
+[27-Jul-2023 10:54:02 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 43
+[27-Jul-2023 10:54:02 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 56
+[27-Jul-2023 10:54:02 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 58
+[27-Jul-2023 12:21:06 Asia/Calcutta] PHP Notice:  session_start(): A session had already been started - ignoring in /home/codemaxs/public_html/adminverify.php on line 62
+[27-Jul-2023 12:21:06 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 42
+[27-Jul-2023 12:21:06 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 43
+[27-Jul-2023 12:21:06 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 56
+[27-Jul-2023 12:21:06 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 58
+[27-Jul-2023 12:21:35 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/reward.php on line 23
+[27-Jul-2023 12:21:53 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/reward.php on line 23
+[27-Jul-2023 12:22:07 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 42
+[27-Jul-2023 12:22:07 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 43
+[27-Jul-2023 12:22:07 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 56
+[27-Jul-2023 12:22:07 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 58
+[27-Jul-2023 12:22:30 Asia/Calcutta] PHP Notice:  Undefined variable: dataRow in /home/codemaxs/public_html/inviterec.php on line 193
+[27-Jul-2023 12:23:53 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 42
+[27-Jul-2023 12:23:53 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 43
+[27-Jul-2023 12:23:53 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 56
+[27-Jul-2023 12:23:53 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 58
+[27-Jul-2023 12:24:04 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/reward.php on line 23
+[27-Jul-2023 12:38:27 Asia/Calcutta] PHP Notice:  session_start(): A session had already been started - ignoring in /home/codemaxs/public_html/adminverify.php on line 62
+[27-Jul-2023 12:38:27 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 42
+[27-Jul-2023 12:38:27 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 43
+[27-Jul-2023 12:38:27 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 56
+[27-Jul-2023 12:38:27 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 58
+[27-Jul-2023 12:42:31 Asia/Calcutta] PHP Notice:  session_start(): A session had already been started - ignoring in /home/codemaxs/public_html/adminverify.php on line 62
+[27-Jul-2023 12:42:31 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 42
+[27-Jul-2023 12:42:31 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 43
+[27-Jul-2023 12:42:31 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 56
+[27-Jul-2023 12:42:31 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 58
+[27-Jul-2023 13:28:37 Asia/Calcutta] PHP Notice:  session_start(): A session had already been started - ignoring in /home/codemaxs/public_html/adminverify.php on line 62
+[27-Jul-2023 13:28:38 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 42
+[27-Jul-2023 13:28:38 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 43
+[27-Jul-2023 13:28:38 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 56
+[27-Jul-2023 13:28:38 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 58
+[27-Jul-2023 13:31:08 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 42
+[27-Jul-2023 13:31:08 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 43
+[27-Jul-2023 13:31:08 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 56
+[27-Jul-2023 13:31:08 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 58
+[27-Jul-2023 13:31:40 Asia/Calcutta] PHP Warning:  Use of undefined constant api - assumed 'api' (this will throw an Error in a future version of PHP) in /home/codemaxs/public_html/updateotp.php on line 14
+[27-Jul-2023 13:31:40 Asia/Calcutta] PHP Warning:  Use of undefined constant status - assumed 'status' (this will throw an Error in a future version of PHP) in /home/codemaxs/public_html/updateotp.php on line 15
+[27-Jul-2023 13:31:44 Asia/Calcutta] PHP Warning:  Use of undefined constant api - assumed 'api' (this will throw an Error in a future version of PHP) in /home/codemaxs/public_html/updateotp.php on line 14
+[27-Jul-2023 13:31:44 Asia/Calcutta] PHP Warning:  Use of undefined constant status - assumed 'status' (this will throw an Error in a future version of PHP) in /home/codemaxs/public_html/updateotp.php on line 15
+[27-Jul-2023 13:31:44 Asia/Calcutta] PHP Warning:  Use of undefined constant api - assumed 'api' (this will throw an Error in a future version of PHP) in /home/codemaxs/public_html/updateotp.php on line 14
+[27-Jul-2023 13:31:44 Asia/Calcutta] PHP Warning:  Use of undefined constant status - assumed 'status' (this will throw an Error in a future version of PHP) in /home/codemaxs/public_html/updateotp.php on line 15
+[27-Jul-2023 13:32:18 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 42
+[27-Jul-2023 13:32:18 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 43
+[27-Jul-2023 13:32:18 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 56
+[27-Jul-2023 13:32:18 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 58
+[27-Jul-2023 13:40:15 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 42
+[27-Jul-2023 13:40:15 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 43
+[27-Jul-2023 13:40:15 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 56
+[27-Jul-2023 13:40:15 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 58
+[27-Jul-2023 13:42:54 Asia/Calcutta] PHP Notice:  session_start(): A session had already been started - ignoring in /home/codemaxs/public_html/adminverify.php on line 62
+[27-Jul-2023 13:42:55 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 42
+[27-Jul-2023 13:42:55 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 43
+[27-Jul-2023 13:42:55 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 56
+[27-Jul-2023 13:42:55 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 58
+[27-Jul-2023 13:43:26 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 42
+[27-Jul-2023 13:43:26 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 43
+[27-Jul-2023 13:43:26 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 56
+[27-Jul-2023 13:43:26 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 58
+[27-Jul-2023 13:45:29 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 42
+[27-Jul-2023 13:45:29 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 43
+[27-Jul-2023 13:45:29 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 56
+[27-Jul-2023 13:45:29 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 58
+[27-Jul-2023 13:46:21 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 42
+[27-Jul-2023 13:46:21 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 43
+[27-Jul-2023 13:46:21 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 56
+[27-Jul-2023 13:46:21 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 58
+[27-Jul-2023 13:46:40 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 42
+[27-Jul-2023 13:46:40 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 43
+[27-Jul-2023 13:46:40 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 56
+[27-Jul-2023 13:46:40 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 58
+[27-Jul-2023 13:46:51 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 42
+[27-Jul-2023 13:46:51 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 43
+[27-Jul-2023 13:46:51 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 56
+[27-Jul-2023 13:46:51 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 58
+[27-Jul-2023 13:46:54 Asia/Calcutta] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/codemaxs/public_html/upi.php on line 47
+[27-Jul-2023 13:48:07 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 42
+[27-Jul-2023 13:48:07 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 43
+[27-Jul-2023 13:48:07 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 56
+[27-Jul-2023 13:48:07 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 58
+[27-Jul-2023 13:48:13 Asia/Calcutta] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/codemaxs/public_html/upi1.php on line 47
+[27-Jul-2023 13:48:13 Asia/Calcutta] PHP Notice:  Undefined index: upi in /home/codemaxs/public_html/upi1.php on line 47
+[27-Jul-2023 13:48:19 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 42
+[27-Jul-2023 13:48:19 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 43
+[27-Jul-2023 13:48:19 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 56
+[27-Jul-2023 13:48:19 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 58
+[27-Jul-2023 13:48:40 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 42
+[27-Jul-2023 13:48:40 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 43
+[27-Jul-2023 13:48:40 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 56
+[27-Jul-2023 13:48:40 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 58
+[27-Jul-2023 14:14:16 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 42
+[27-Jul-2023 14:14:16 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 43
+[27-Jul-2023 14:14:16 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 56
+[27-Jul-2023 14:14:16 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 58
+[27-Jul-2023 14:14:52 Asia/Calcutta] PHP Warning:  Use of undefined constant api - assumed 'api' (this will throw an Error in a future version of PHP) in /home/codemaxs/public_html/updateotp.php on line 14
+[27-Jul-2023 14:14:52 Asia/Calcutta] PHP Warning:  Use of undefined constant status - assumed 'status' (this will throw an Error in a future version of PHP) in /home/codemaxs/public_html/updateotp.php on line 15
+[27-Jul-2023 14:15:08 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 42
+[27-Jul-2023 14:15:08 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 43
+[27-Jul-2023 14:15:08 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 56
+[27-Jul-2023 14:15:08 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 58
+[27-Jul-2023 14:15:44 Asia/Calcutta] PHP Notice:  session_start(): A session had already been started - ignoring in /home/codemaxs/public_html/adminverify.php on line 62
+[27-Jul-2023 14:15:44 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 42
+[27-Jul-2023 14:15:44 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 43
+[27-Jul-2023 14:15:44 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 56
+[27-Jul-2023 14:15:44 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 58
+[27-Jul-2023 14:15:53 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 42
+[27-Jul-2023 14:15:53 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 43
+[27-Jul-2023 14:15:53 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 56
+[27-Jul-2023 14:15:53 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 58
+[27-Jul-2023 14:16:06 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 42
+[27-Jul-2023 14:16:06 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 43
+[27-Jul-2023 14:16:06 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 56
+[27-Jul-2023 14:16:06 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 58
+[27-Jul-2023 14:16:21 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 42
+[27-Jul-2023 14:16:21 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 43
+[27-Jul-2023 14:16:21 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 56
+[27-Jul-2023 14:16:21 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 58
+[27-Jul-2023 14:18:24 Asia/Calcutta] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/codemaxs/public_html/upi1.php on line 47
+[27-Jul-2023 14:18:24 Asia/Calcutta] PHP Notice:  Undefined index: upi in /home/codemaxs/public_html/upi1.php on line 47
+[27-Jul-2023 14:18:32 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 42
+[27-Jul-2023 14:18:32 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 43
+[27-Jul-2023 14:18:32 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 56
+[27-Jul-2023 14:18:32 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 58
+[27-Jul-2023 15:57:32 Asia/Calcutta] PHP Notice:  session_start(): A session had already been started - ignoring in /home/codemaxs/public_html/adminverify.php on line 62
+[27-Jul-2023 15:57:33 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 42
+[27-Jul-2023 15:57:33 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 43
+[27-Jul-2023 15:57:33 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 56
+[27-Jul-2023 15:57:33 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 58
+[27-Jul-2023 15:58:23 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 42
+[27-Jul-2023 15:58:23 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 43
+[27-Jul-2023 15:58:23 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 56
+[27-Jul-2023 15:58:23 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 58
+[27-Jul-2023 16:01:56 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 42
+[27-Jul-2023 16:01:56 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 43
+[27-Jul-2023 16:01:56 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 56
+[27-Jul-2023 16:01:56 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 58
+[27-Jul-2023 16:02:20 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 42
+[27-Jul-2023 16:02:20 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 43
+[27-Jul-2023 16:02:20 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 56
+[27-Jul-2023 16:02:20 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 58
+[27-Jul-2023 16:49:35 Asia/Calcutta] PHP Notice:  session_start(): A session had already been started - ignoring in /home/codemaxs/public_html/tendSapre.php on line 6
+[27-Jul-2023 16:49:35 Asia/Calcutta] PHP Notice:  Undefined variable: dataRow12 in /home/codemaxs/public_html/tendSapre.php on line 958
+[27-Jul-2023 16:49:35 Asia/Calcutta] PHP Notice:  Undefined variable: dataRow22 in /home/codemaxs/public_html/tendSapre.php on line 965
+[27-Jul-2023 16:49:35 Asia/Calcutta] PHP Notice:  Undefined variable: dataRow32 in /home/codemaxs/public_html/tendSapre.php on line 971
+[27-Jul-2023 16:49:35 Asia/Calcutta] PHP Notice:  Undefined variable: dataRow42 in /home/codemaxs/public_html/tendSapre.php on line 977
+[27-Jul-2023 16:49:35 Asia/Calcutta] PHP Notice:  Undefined variable: dataRow52 in /home/codemaxs/public_html/tendSapre.php on line 983
+[27-Jul-2023 16:49:35 Asia/Calcutta] PHP Notice:  Undefined variable: dataRow62 in /home/codemaxs/public_html/tendSapre.php on line 989
+[27-Jul-2023 16:49:35 Asia/Calcutta] PHP Notice:  Undefined variable: dataRow72 in /home/codemaxs/public_html/tendSapre.php on line 995
+[27-Jul-2023 16:49:35 Asia/Calcutta] PHP Notice:  Undefined variable: dataRow82 in /home/codemaxs/public_html/tendSapre.php on line 1001
+[27-Jul-2023 16:49:35 Asia/Calcutta] PHP Notice:  Undefined variable: dataRow92 in /home/codemaxs/public_html/tendSapre.php on line 1007
+[27-Jul-2023 16:49:35 Asia/Calcutta] PHP Notice:  Undefined variable: dataRow11 in /home/codemaxs/public_html/tendSapre.php on line 1020
+[27-Jul-2023 16:49:35 Asia/Calcutta] PHP Notice:  Undefined variable: dataRow21 in /home/codemaxs/public_html/tendSapre.php on line 1026
+[27-Jul-2023 16:49:35 Asia/Calcutta] PHP Notice:  Undefined variable: dataRow31 in /home/codemaxs/public_html/tendSapre.php on line 1032
+[27-Jul-2023 16:49:35 Asia/Calcutta] PHP Notice:  Undefined variable: dataRow41 in /home/codemaxs/public_html/tendSapre.php on line 1038
+[27-Jul-2023 16:49:35 Asia/Calcutta] PHP Notice:  Undefined variable: dataRow51 in /home/codemaxs/public_html/tendSapre.php on line 1044
+[27-Jul-2023 16:49:35 Asia/Calcutta] PHP Notice:  Undefined variable: dataRow61 in /home/codemaxs/public_html/tendSapre.php on line 1050
+[27-Jul-2023 16:49:35 Asia/Calcutta] PHP Notice:  Undefined variable: dataRow71 in /home/codemaxs/public_html/tendSapre.php on line 1056
+[27-Jul-2023 16:49:35 Asia/Calcutta] PHP Notice:  Undefined variable: dataRow81 in /home/codemaxs/public_html/tendSapre.php on line 1062
+[27-Jul-2023 16:49:35 Asia/Calcutta] PHP Notice:  Undefined variable: dataRow91 in /home/codemaxs/public_html/tendSapre.php on line 1068
+[27-Jul-2023 18:04:48 Asia/Calcutta] PHP Notice:  session_start(): A session had already been started - ignoring in /home/codemaxs/public_html/adminverify.php on line 62
+[27-Jul-2023 18:04:48 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 42
+[27-Jul-2023 18:04:48 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 43
+[27-Jul-2023 18:04:48 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 56
+[27-Jul-2023 18:04:48 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 58
+[27-Jul-2023 20:17:46 Asia/Calcutta] PHP Notice:  session_start(): A session had already been started - ignoring in /home/codemaxs/public_html/adminverify.php on line 62
+[27-Jul-2023 20:17:47 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 42
+[27-Jul-2023 20:17:47 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 43
+[27-Jul-2023 20:17:47 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 56
+[27-Jul-2023 20:17:47 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 58
+[27-Jul-2023 20:18:08 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 42
+[27-Jul-2023 20:18:08 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 43
+[27-Jul-2023 20:18:08 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 56
+[27-Jul-2023 20:18:08 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 58
+[27-Jul-2023 20:18:23 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 42
+[27-Jul-2023 20:18:23 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 43
+[27-Jul-2023 20:18:23 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 56
+[27-Jul-2023 20:18:23 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 58
+[27-Jul-2023 20:18:28 Asia/Calcutta] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/codemaxs/public_html/upi1.php on line 47
+[27-Jul-2023 20:18:28 Asia/Calcutta] PHP Notice:  Undefined index: upi in /home/codemaxs/public_html/upi1.php on line 47
+[28-Jul-2023 19:43:02 Asia/Calcutta] PHP Notice:  session_start(): A session had already been started - ignoring in /home/codemaxs/public_html/adminverify.php on line 62
+[28-Jul-2023 19:43:02 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 42
+[28-Jul-2023 19:43:02 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 43
+[28-Jul-2023 19:43:02 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 56
+[28-Jul-2023 19:43:02 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 58
+[28-Jul-2023 23:38:17 Asia/Calcutta] PHP Notice:  session_start(): A session had already been started - ignoring in /home/codemaxs/public_html/adminverify.php on line 62
+[28-Jul-2023 23:38:18 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 42
+[28-Jul-2023 23:38:18 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 43
+[28-Jul-2023 23:38:18 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 56
+[28-Jul-2023 23:38:18 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 58
+[29-Jul-2023 00:00:39 Asia/Calcutta] PHP Warning:  Use of undefined constant api - assumed 'api' (this will throw an Error in a future version of PHP) in /home/codemaxs/public_html/updateotp.php on line 14
+[29-Jul-2023 00:00:39 Asia/Calcutta] PHP Warning:  Use of undefined constant status - assumed 'status' (this will throw an Error in a future version of PHP) in /home/codemaxs/public_html/updateotp.php on line 15
+[29-Jul-2023 00:01:14 Asia/Calcutta] PHP Warning:  Use of undefined constant api - assumed 'api' (this will throw an Error in a future version of PHP) in /home/codemaxs/public_html/updateotp.php on line 14
+[29-Jul-2023 00:01:14 Asia/Calcutta] PHP Warning:  Use of undefined constant status - assumed 'status' (this will throw an Error in a future version of PHP) in /home/codemaxs/public_html/updateotp.php on line 15
+[29-Jul-2023 00:01:14 Asia/Calcutta] PHP Warning:  Use of undefined constant api - assumed 'api' (this will throw an Error in a future version of PHP) in /home/codemaxs/public_html/updateotp.php on line 14
+[29-Jul-2023 00:01:14 Asia/Calcutta] PHP Warning:  Use of undefined constant status - assumed 'status' (this will throw an Error in a future version of PHP) in /home/codemaxs/public_html/updateotp.php on line 15
+[29-Jul-2023 00:01:20 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 42
+[29-Jul-2023 00:01:20 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 43
+[29-Jul-2023 00:01:20 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 56
+[29-Jul-2023 00:01:20 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 58
+[29-Jul-2023 00:02:12 Asia/Calcutta] PHP Warning:  Use of undefined constant api - assumed 'api' (this will throw an Error in a future version of PHP) in /home/codemaxs/public_html/updateotp.php on line 14
+[29-Jul-2023 00:02:12 Asia/Calcutta] PHP Warning:  Use of undefined constant status - assumed 'status' (this will throw an Error in a future version of PHP) in /home/codemaxs/public_html/updateotp.php on line 15
+[29-Jul-2023 00:02:16 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 42
+[29-Jul-2023 00:02:16 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 43
+[29-Jul-2023 00:02:16 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 56
+[29-Jul-2023 00:02:16 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 58
+[29-Jul-2023 00:03:18 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 42
+[29-Jul-2023 00:03:18 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 43
+[29-Jul-2023 00:03:18 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 56
+[29-Jul-2023 00:03:18 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 58
+[29-Jul-2023 00:05:15 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 42
+[29-Jul-2023 00:05:15 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 43
+[29-Jul-2023 00:05:15 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 56
+[29-Jul-2023 00:05:15 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 58
+[29-Jul-2023 00:05:29 Asia/Calcutta] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/codemaxs/public_html/upi1.php on line 47
+[29-Jul-2023 00:05:29 Asia/Calcutta] PHP Notice:  Undefined index: upi in /home/codemaxs/public_html/upi1.php on line 47
+[29-Jul-2023 00:05:36 Asia/Calcutta] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/codemaxs/public_html/upi1.php on line 47
+[29-Jul-2023 00:05:36 Asia/Calcutta] PHP Notice:  Undefined index: upi in /home/codemaxs/public_html/upi1.php on line 47
+[29-Jul-2023 00:06:16 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 42
+[29-Jul-2023 00:06:16 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 43
+[29-Jul-2023 00:06:16 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 56
+[29-Jul-2023 00:06:16 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 58
+[29-Jul-2023 00:07:09 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 42
+[29-Jul-2023 00:07:09 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 43
+[29-Jul-2023 00:07:09 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/codemaxs/public_html/admin.php on line 56
+[29-Jul-2023 00:07:09 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/codemaxs/public_html/admin.php on line 58
+[18-Aug-2023 13:43:22 Asia/Calcutta] PHP Notice:  session_start(): A session had already been started - ignoring in /home/wsdh6qki8n2g/public_html/adminverify.php on line 62
+[18-Aug-2023 13:43:23 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 42
+[18-Aug-2023 13:43:23 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 43
+[18-Aug-2023 13:43:23 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 56
+[18-Aug-2023 13:43:23 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 58
+[18-Aug-2023 13:43:40 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 42
+[18-Aug-2023 13:43:40 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 43
+[18-Aug-2023 13:43:40 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 56
+[18-Aug-2023 13:43:40 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 58
+[18-Aug-2023 13:43:42 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 42
+[18-Aug-2023 13:43:42 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 43
+[18-Aug-2023 13:43:42 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 56
+[18-Aug-2023 13:43:42 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 58
+[18-Aug-2023 13:43:50 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 42
+[18-Aug-2023 13:43:50 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 43
+[18-Aug-2023 13:43:50 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 56
+[18-Aug-2023 13:43:50 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 58
+[18-Aug-2023 13:43:52 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 42
+[18-Aug-2023 13:43:52 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 43
+[18-Aug-2023 13:43:52 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 56
+[18-Aug-2023 13:43:52 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 58
+[18-Aug-2023 13:43:57 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 42
+[18-Aug-2023 13:43:57 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 43
+[18-Aug-2023 13:43:57 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 56
+[18-Aug-2023 13:43:57 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 58
+[18-Aug-2023 13:44:02 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 42
+[18-Aug-2023 13:44:02 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 43
+[18-Aug-2023 13:44:02 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 56
+[18-Aug-2023 13:44:02 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 58
+[18-Aug-2023 13:44:09 Asia/Calcutta] PHP Warning:  Use of undefined constant notice - assumed 'notice' (this will throw an Error in a future version of PHP) in /home/wsdh6qki8n2g/public_html/notice.php on line 47
+[18-Aug-2023 13:44:10 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 42
+[18-Aug-2023 13:44:10 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 43
+[18-Aug-2023 13:44:10 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 56
+[18-Aug-2023 13:44:10 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 58
+[18-Aug-2023 13:52:26 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 42
+[18-Aug-2023 13:52:26 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 43
+[18-Aug-2023 13:52:26 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 56
+[18-Aug-2023 13:52:26 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 58
+[18-Aug-2023 14:11:57 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 42
+[18-Aug-2023 14:11:57 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 43
+[18-Aug-2023 14:11:57 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 56
+[18-Aug-2023 14:11:57 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 58
+[18-Aug-2023 14:16:47 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 42
+[18-Aug-2023 14:16:47 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 43
+[18-Aug-2023 14:16:47 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 56
+[18-Aug-2023 14:16:47 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 58
+[18-Aug-2023 14:18:18 Asia/Calcutta] PHP Notice:  session_start(): A session had already been started - ignoring in /home/wsdh6qki8n2g/public_html/adminverify.php on line 62
+[18-Aug-2023 14:18:18 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 42
+[18-Aug-2023 14:18:18 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 43
+[18-Aug-2023 14:18:18 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 56
+[18-Aug-2023 14:18:18 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 58
+[18-Aug-2023 14:18:59 Asia/Calcutta] PHP Notice:  session_start(): A session had already been started - ignoring in /home/wsdh6qki8n2g/public_html/adminverify.php on line 62
+[18-Aug-2023 14:18:59 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 42
+[18-Aug-2023 14:18:59 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 43
+[18-Aug-2023 14:18:59 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 56
+[18-Aug-2023 14:18:59 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 58
+[18-Aug-2023 14:20:11 Asia/Calcutta] PHP Warning:  Use of undefined constant api - assumed 'api' (this will throw an Error in a future version of PHP) in /home/wsdh6qki8n2g/public_html/updateotp.php on line 14
+[18-Aug-2023 14:20:11 Asia/Calcutta] PHP Warning:  Use of undefined constant status - assumed 'status' (this will throw an Error in a future version of PHP) in /home/wsdh6qki8n2g/public_html/updateotp.php on line 15
+[18-Aug-2023 14:21:41 Asia/Calcutta] PHP Warning:  Use of undefined constant api - assumed 'api' (this will throw an Error in a future version of PHP) in /home/wsdh6qki8n2g/public_html/updateotp.php on line 14
+[18-Aug-2023 14:21:41 Asia/Calcutta] PHP Warning:  Use of undefined constant status - assumed 'status' (this will throw an Error in a future version of PHP) in /home/wsdh6qki8n2g/public_html/updateotp.php on line 15
+[18-Aug-2023 14:21:45 Asia/Calcutta] PHP Warning:  Use of undefined constant api - assumed 'api' (this will throw an Error in a future version of PHP) in /home/wsdh6qki8n2g/public_html/updateotp.php on line 14
+[18-Aug-2023 14:21:45 Asia/Calcutta] PHP Warning:  Use of undefined constant status - assumed 'status' (this will throw an Error in a future version of PHP) in /home/wsdh6qki8n2g/public_html/updateotp.php on line 15
+[18-Aug-2023 14:21:54 Asia/Calcutta] PHP Warning:  Use of undefined constant api - assumed 'api' (this will throw an Error in a future version of PHP) in /home/wsdh6qki8n2g/public_html/updateotp.php on line 14
+[18-Aug-2023 14:21:54 Asia/Calcutta] PHP Warning:  Use of undefined constant status - assumed 'status' (this will throw an Error in a future version of PHP) in /home/wsdh6qki8n2g/public_html/updateotp.php on line 15
+[18-Aug-2023 14:21:58 Asia/Calcutta] PHP Warning:  Use of undefined constant api - assumed 'api' (this will throw an Error in a future version of PHP) in /home/wsdh6qki8n2g/public_html/updateotp.php on line 14
+[18-Aug-2023 14:21:58 Asia/Calcutta] PHP Warning:  Use of undefined constant status - assumed 'status' (this will throw an Error in a future version of PHP) in /home/wsdh6qki8n2g/public_html/updateotp.php on line 15
+[18-Aug-2023 14:22:03 Asia/Calcutta] PHP Warning:  Use of undefined constant api - assumed 'api' (this will throw an Error in a future version of PHP) in /home/wsdh6qki8n2g/public_html/updateotp.php on line 14
+[18-Aug-2023 14:22:03 Asia/Calcutta] PHP Warning:  Use of undefined constant status - assumed 'status' (this will throw an Error in a future version of PHP) in /home/wsdh6qki8n2g/public_html/updateotp.php on line 15
+[18-Aug-2023 14:22:04 Asia/Calcutta] PHP Warning:  Use of undefined constant api - assumed 'api' (this will throw an Error in a future version of PHP) in /home/wsdh6qki8n2g/public_html/updateotp.php on line 14
+[18-Aug-2023 14:22:04 Asia/Calcutta] PHP Warning:  Use of undefined constant status - assumed 'status' (this will throw an Error in a future version of PHP) in /home/wsdh6qki8n2g/public_html/updateotp.php on line 15
+[18-Aug-2023 14:22:05 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 42
+[18-Aug-2023 14:22:05 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 43
+[18-Aug-2023 14:22:05 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 56
+[18-Aug-2023 14:22:05 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 58
+[18-Aug-2023 14:27:18 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 42
+[18-Aug-2023 14:27:18 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 43
+[18-Aug-2023 14:27:18 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 56
+[18-Aug-2023 14:27:18 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 58
+[18-Aug-2023 14:27:32 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 42
+[18-Aug-2023 14:27:32 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 43
+[18-Aug-2023 14:27:32 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 56
+[18-Aug-2023 14:27:32 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 58
+[18-Aug-2023 14:27:51 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 42
+[18-Aug-2023 14:27:51 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 43
+[18-Aug-2023 14:27:51 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 56
+[18-Aug-2023 14:27:51 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 58
+[18-Aug-2023 14:28:01 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 42
+[18-Aug-2023 14:28:01 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 43
+[18-Aug-2023 14:28:01 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 56
+[18-Aug-2023 14:28:01 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 58
+[18-Aug-2023 14:30:43 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 42
+[18-Aug-2023 14:30:43 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 43
+[18-Aug-2023 14:30:43 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 56
+[18-Aug-2023 14:30:43 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 58
+[18-Aug-2023 14:30:47 Asia/Calcutta] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/wsdh6qki8n2g/public_html/upi1.php on line 47
+[18-Aug-2023 14:30:47 Asia/Calcutta] PHP Notice:  Undefined index: upi in /home/wsdh6qki8n2g/public_html/upi1.php on line 47
+[18-Aug-2023 14:30:54 Asia/Calcutta] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/wsdh6qki8n2g/public_html/upi1.php on line 47
+[18-Aug-2023 14:30:54 Asia/Calcutta] PHP Notice:  Undefined index: upi in /home/wsdh6qki8n2g/public_html/upi1.php on line 47
+[18-Aug-2023 14:30:54 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 42
+[18-Aug-2023 14:30:54 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 43
+[18-Aug-2023 14:30:54 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 56
+[18-Aug-2023 14:30:54 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 58
+[18-Aug-2023 14:31:15 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 42
+[18-Aug-2023 14:31:15 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 43
+[18-Aug-2023 14:31:15 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 56
+[18-Aug-2023 14:31:15 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 58
+[18-Aug-2023 14:31:26 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 42
+[18-Aug-2023 14:31:26 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 43
+[18-Aug-2023 14:31:26 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 56
+[18-Aug-2023 14:31:26 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 58
+[18-Aug-2023 14:31:35 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 42
+[18-Aug-2023 14:31:35 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 43
+[18-Aug-2023 14:31:35 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 56
+[18-Aug-2023 14:31:35 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 58
+[18-Aug-2023 14:31:45 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 42
+[18-Aug-2023 14:31:45 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 43
+[18-Aug-2023 14:31:45 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 56
+[18-Aug-2023 14:31:45 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 58
+[18-Aug-2023 14:42:31 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 13
+[18-Aug-2023 14:42:31 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 15
+[18-Aug-2023 14:42:31 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 23
+[18-Aug-2023 14:42:31 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 24
+[18-Aug-2023 14:42:31 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 33
+[18-Aug-2023 14:42:31 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 34
+[18-Aug-2023 14:42:31 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 42
+[18-Aug-2023 14:42:31 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 43
+[18-Aug-2023 14:42:31 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 56
+[18-Aug-2023 14:42:31 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 58
+[18-Aug-2023 14:42:31 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 66
+[18-Aug-2023 14:42:31 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 67
+[18-Aug-2023 14:42:31 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 76
+[18-Aug-2023 14:42:31 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 77
+[18-Aug-2023 14:42:31 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 85
+[18-Aug-2023 14:42:31 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 86
+[18-Aug-2023 14:45:17 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 42
+[18-Aug-2023 14:45:17 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 43
+[18-Aug-2023 14:45:17 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 56
+[18-Aug-2023 14:45:17 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 58
+[18-Aug-2023 14:45:21 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 42
+[18-Aug-2023 14:45:21 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 43
+[18-Aug-2023 14:45:21 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 56
+[18-Aug-2023 14:45:21 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 58
+[18-Aug-2023 14:47:35 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 42
+[18-Aug-2023 14:47:35 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 43
+[18-Aug-2023 14:47:35 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 56
+[18-Aug-2023 14:47:35 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 58
+[18-Aug-2023 15:16:19 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 42
+[18-Aug-2023 15:16:19 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 43
+[18-Aug-2023 15:16:19 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 56
+[18-Aug-2023 15:16:19 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 58
+[18-Aug-2023 16:22:10 Asia/Calcutta] PHP Notice:  session_start(): A session had already been started - ignoring in /home/wsdh6qki8n2g/public_html/adminverify.php on line 62
+[18-Aug-2023 16:22:10 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 42
+[18-Aug-2023 16:22:10 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 43
+[18-Aug-2023 16:22:10 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 56
+[18-Aug-2023 16:22:10 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 58
+[18-Aug-2023 16:22:16 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 42
+[18-Aug-2023 16:22:16 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 43
+[18-Aug-2023 16:22:16 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 56
+[18-Aug-2023 16:22:16 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 58
+[18-Aug-2023 16:22:19 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 42
+[18-Aug-2023 16:22:19 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 43
+[18-Aug-2023 16:22:19 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 56
+[18-Aug-2023 16:22:19 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 58
+[18-Aug-2023 16:22:21 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 42
+[18-Aug-2023 16:22:21 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 43
+[18-Aug-2023 16:22:21 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 56
+[18-Aug-2023 16:22:21 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 58
+[18-Aug-2023 16:22:23 Asia/Calcutta] PHP Warning:  Use of undefined constant notice - assumed 'notice' (this will throw an Error in a future version of PHP) in /home/wsdh6qki8n2g/public_html/notice.php on line 47
+[18-Aug-2023 16:22:25 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 42
+[18-Aug-2023 16:22:25 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 43
+[18-Aug-2023 16:22:25 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 56
+[18-Aug-2023 16:22:25 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 58
+[18-Aug-2023 16:22:27 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 42
+[18-Aug-2023 16:22:27 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 43
+[18-Aug-2023 16:22:27 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 56
+[18-Aug-2023 16:22:27 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 58
+[18-Aug-2023 16:22:28 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 42
+[18-Aug-2023 16:22:28 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 43
+[18-Aug-2023 16:22:28 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 56
+[18-Aug-2023 16:22:28 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 58
+[18-Aug-2023 16:22:44 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 42
+[18-Aug-2023 16:22:44 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 43
+[18-Aug-2023 16:22:44 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 56
+[18-Aug-2023 16:22:44 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 58
+[18-Aug-2023 16:23:48 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 42
+[18-Aug-2023 16:23:48 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 43
+[18-Aug-2023 16:23:48 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 56
+[18-Aug-2023 16:23:48 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 58
+[18-Aug-2023 16:23:59 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 42
+[18-Aug-2023 16:23:59 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 43
+[18-Aug-2023 16:23:59 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 56
+[18-Aug-2023 16:23:59 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 58
+[18-Aug-2023 18:42:08 Asia/Calcutta] PHP Notice:  session_start(): A session had already been started - ignoring in /home/wsdh6qki8n2g/public_html/tendEmred.php on line 6
+[18-Aug-2023 18:42:08 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/tendEmred.php on line 819
+[18-Aug-2023 18:42:08 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/tendEmred.php on line 820
+[18-Aug-2023 18:42:08 Asia/Calcutta] PHP Notice:  Undefined variable: dataRow12 in /home/wsdh6qki8n2g/public_html/tendEmred.php on line 958
+[18-Aug-2023 18:42:08 Asia/Calcutta] PHP Notice:  Undefined variable: dataRow22 in /home/wsdh6qki8n2g/public_html/tendEmred.php on line 965
+[18-Aug-2023 18:42:08 Asia/Calcutta] PHP Notice:  Undefined variable: dataRow32 in /home/wsdh6qki8n2g/public_html/tendEmred.php on line 971
+[18-Aug-2023 18:42:08 Asia/Calcutta] PHP Notice:  Undefined variable: dataRow42 in /home/wsdh6qki8n2g/public_html/tendEmred.php on line 977
+[18-Aug-2023 18:42:08 Asia/Calcutta] PHP Notice:  Undefined variable: dataRow52 in /home/wsdh6qki8n2g/public_html/tendEmred.php on line 983
+[18-Aug-2023 18:42:08 Asia/Calcutta] PHP Notice:  Undefined variable: dataRow62 in /home/wsdh6qki8n2g/public_html/tendEmred.php on line 989
+[18-Aug-2023 18:42:08 Asia/Calcutta] PHP Notice:  Undefined variable: dataRow72 in /home/wsdh6qki8n2g/public_html/tendEmred.php on line 995
+[18-Aug-2023 18:42:08 Asia/Calcutta] PHP Notice:  Undefined variable: dataRow82 in /home/wsdh6qki8n2g/public_html/tendEmred.php on line 1001
+[18-Aug-2023 18:42:08 Asia/Calcutta] PHP Notice:  Undefined variable: dataRow92 in /home/wsdh6qki8n2g/public_html/tendEmred.php on line 1007
+[18-Aug-2023 18:42:08 Asia/Calcutta] PHP Notice:  Undefined variable: dataRow11 in /home/wsdh6qki8n2g/public_html/tendEmred.php on line 1020
+[18-Aug-2023 18:42:08 Asia/Calcutta] PHP Notice:  Undefined variable: dataRow21 in /home/wsdh6qki8n2g/public_html/tendEmred.php on line 1026
+[18-Aug-2023 18:42:08 Asia/Calcutta] PHP Notice:  Undefined variable: dataRow31 in /home/wsdh6qki8n2g/public_html/tendEmred.php on line 1032
+[18-Aug-2023 18:42:08 Asia/Calcutta] PHP Notice:  Undefined variable: dataRow41 in /home/wsdh6qki8n2g/public_html/tendEmred.php on line 1038
+[18-Aug-2023 18:42:08 Asia/Calcutta] PHP Notice:  Undefined variable: dataRow51 in /home/wsdh6qki8n2g/public_html/tendEmred.php on line 1044
+[18-Aug-2023 18:42:08 Asia/Calcutta] PHP Notice:  Undefined variable: dataRow61 in /home/wsdh6qki8n2g/public_html/tendEmred.php on line 1050
+[18-Aug-2023 18:42:08 Asia/Calcutta] PHP Notice:  Undefined variable: dataRow71 in /home/wsdh6qki8n2g/public_html/tendEmred.php on line 1056
+[18-Aug-2023 18:42:08 Asia/Calcutta] PHP Notice:  Undefined variable: dataRow81 in /home/wsdh6qki8n2g/public_html/tendEmred.php on line 1062
+[18-Aug-2023 18:42:08 Asia/Calcutta] PHP Notice:  Undefined variable: dataRow91 in /home/wsdh6qki8n2g/public_html/tendEmred.php on line 1068
+[18-Aug-2023 18:42:49 Asia/Calcutta] PHP Notice:  session_start(): A session had already been started - ignoring in /home/wsdh6qki8n2g/public_html/adminverify.php on line 62
+[18-Aug-2023 18:42:49 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 42
+[18-Aug-2023 18:42:49 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 43
+[18-Aug-2023 18:42:49 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 56
+[18-Aug-2023 18:42:49 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 58
+[18-Aug-2023 18:43:17 Asia/Calcutta] PHP Warning:  Use of undefined constant notice - assumed 'notice' (this will throw an Error in a future version of PHP) in /home/wsdh6qki8n2g/public_html/notice.php on line 47
+[18-Aug-2023 18:43:26 Asia/Calcutta] PHP Warning:  Use of undefined constant notice - assumed 'notice' (this will throw an Error in a future version of PHP) in /home/wsdh6qki8n2g/public_html/notice.php on line 47
+[18-Aug-2023 18:43:28 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 42
+[18-Aug-2023 18:43:28 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 43
+[18-Aug-2023 18:43:28 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 56
+[18-Aug-2023 18:43:28 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 58
+[18-Aug-2023 18:43:37 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 42
+[18-Aug-2023 18:43:37 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 43
+[18-Aug-2023 18:43:37 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 56
+[18-Aug-2023 18:43:37 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 58
+[18-Aug-2023 18:45:09 Asia/Calcutta] PHP Notice:  session_start(): A session had already been started - ignoring in /home/wsdh6qki8n2g/public_html/tendEmred.php on line 6
+[18-Aug-2023 18:45:09 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/tendEmred.php on line 819
+[18-Aug-2023 18:45:09 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/tendEmred.php on line 820
+[18-Aug-2023 18:45:09 Asia/Calcutta] PHP Notice:  Undefined variable: dataRow12 in /home/wsdh6qki8n2g/public_html/tendEmred.php on line 958
+[18-Aug-2023 18:45:09 Asia/Calcutta] PHP Notice:  Undefined variable: dataRow22 in /home/wsdh6qki8n2g/public_html/tendEmred.php on line 965
+[18-Aug-2023 18:45:09 Asia/Calcutta] PHP Notice:  Undefined variable: dataRow32 in /home/wsdh6qki8n2g/public_html/tendEmred.php on line 971
+[18-Aug-2023 18:45:09 Asia/Calcutta] PHP Notice:  Undefined variable: dataRow42 in /home/wsdh6qki8n2g/public_html/tendEmred.php on line 977
+[18-Aug-2023 18:45:09 Asia/Calcutta] PHP Notice:  Undefined variable: dataRow52 in /home/wsdh6qki8n2g/public_html/tendEmred.php on line 983
+[18-Aug-2023 18:45:09 Asia/Calcutta] PHP Notice:  Undefined variable: dataRow62 in /home/wsdh6qki8n2g/public_html/tendEmred.php on line 989
+[18-Aug-2023 18:45:09 Asia/Calcutta] PHP Notice:  Undefined variable: dataRow72 in /home/wsdh6qki8n2g/public_html/tendEmred.php on line 995
+[18-Aug-2023 18:45:09 Asia/Calcutta] PHP Notice:  Undefined variable: dataRow82 in /home/wsdh6qki8n2g/public_html/tendEmred.php on line 1001
+[18-Aug-2023 18:45:09 Asia/Calcutta] PHP Notice:  Undefined variable: dataRow92 in /home/wsdh6qki8n2g/public_html/tendEmred.php on line 1007
+[18-Aug-2023 18:45:09 Asia/Calcutta] PHP Notice:  Undefined variable: dataRow11 in /home/wsdh6qki8n2g/public_html/tendEmred.php on line 1020
+[18-Aug-2023 18:45:09 Asia/Calcutta] PHP Notice:  Undefined variable: dataRow21 in /home/wsdh6qki8n2g/public_html/tendEmred.php on line 1026
+[18-Aug-2023 18:45:09 Asia/Calcutta] PHP Notice:  Undefined variable: dataRow31 in /home/wsdh6qki8n2g/public_html/tendEmred.php on line 1032
+[18-Aug-2023 18:45:09 Asia/Calcutta] PHP Notice:  Undefined variable: dataRow41 in /home/wsdh6qki8n2g/public_html/tendEmred.php on line 1038
+[18-Aug-2023 18:45:09 Asia/Calcutta] PHP Notice:  Undefined variable: dataRow51 in /home/wsdh6qki8n2g/public_html/tendEmred.php on line 1044
+[18-Aug-2023 18:45:09 Asia/Calcutta] PHP Notice:  Undefined variable: dataRow61 in /home/wsdh6qki8n2g/public_html/tendEmred.php on line 1050
+[18-Aug-2023 18:45:09 Asia/Calcutta] PHP Notice:  Undefined variable: dataRow71 in /home/wsdh6qki8n2g/public_html/tendEmred.php on line 1056
+[18-Aug-2023 18:45:09 Asia/Calcutta] PHP Notice:  Undefined variable: dataRow81 in /home/wsdh6qki8n2g/public_html/tendEmred.php on line 1062
+[18-Aug-2023 18:45:09 Asia/Calcutta] PHP Notice:  Undefined variable: dataRow91 in /home/wsdh6qki8n2g/public_html/tendEmred.php on line 1068
+[18-Aug-2023 18:46:23 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 42
+[18-Aug-2023 18:46:23 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 43
+[18-Aug-2023 18:46:23 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 56
+[18-Aug-2023 18:46:23 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 58
+[18-Aug-2023 18:46:25 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 42
+[18-Aug-2023 18:46:25 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 43
+[18-Aug-2023 18:46:25 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 56
+[18-Aug-2023 18:46:25 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 58
+[18-Aug-2023 18:46:32 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 42
+[18-Aug-2023 18:46:32 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 43
+[18-Aug-2023 18:46:32 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 56
+[18-Aug-2023 18:46:32 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 58
+[18-Aug-2023 18:46:46 Asia/Calcutta] PHP Notice:  session_start(): A session had already been started - ignoring in /home/wsdh6qki8n2g/public_html/adminverify.php on line 62
+[18-Aug-2023 18:46:46 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 42
+[18-Aug-2023 18:46:46 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 43
+[18-Aug-2023 18:46:46 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wsdh6qki8n2g/public_html/admin.php on line 56
+[18-Aug-2023 18:46:46 Asia/Calcutta] PHP Notice:  Trying to access array offset on value of type null in /home/wsdh6qki8n2g/public_html/admin.php on line 58
